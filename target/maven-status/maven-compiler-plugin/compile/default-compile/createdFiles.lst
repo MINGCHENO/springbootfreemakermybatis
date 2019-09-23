@@ -1,0 +1,12 @@
+com\eagle\ykm\service\UserService.class
+com\eagle\ykm\dao\UserDAO.class
+com\eagle\ykm\model\User.class
+com\eagle\ykm\controllers\LoginController.class
+com\eagle\ykm\model\exceptions\LoginRegisterException.class
+com\eagle\ykm\BookManagerApplication.class
+com\eagle\ykm\utils\MD5.class
+com\eagle\ykm\utils\CookieUtils.class
+com\eagle\ykm\controllers\BookController.class
+com\eagle\ykm\model\Book.class
+com\eagle\ykm\biz\LoginBiz.class
+com\eagle\ykm\utils\UuidUtils.class

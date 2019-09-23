@@ -1,0 +1,12 @@
+D:\ideaProject\eagle\mybookmanager\src\main\java\com\eagle\ykm\model\Book.java
+D:\ideaProject\eagle\mybookmanager\src\main\java\com\eagle\ykm\model\User.java
+D:\ideaProject\eagle\mybookmanager\src\main\java\com\eagle\ykm\dao\UserDAO.java
+D:\ideaProject\eagle\mybookmanager\src\main\java\com\eagle\ykm\utils\UuidUtils.java
+D:\ideaProject\eagle\mybookmanager\src\main\java\com\eagle\ykm\controllers\BookController.java
+D:\ideaProject\eagle\mybookmanager\src\main\java\com\eagle\ykm\model\exceptions\LoginRegisterException.java
+D:\ideaProject\eagle\mybookmanager\src\main\java\com\eagle\ykm\controllers\LoginController.java
+D:\ideaProject\eagle\mybookmanager\src\main\java\com\eagle\ykm\utils\MD5.java
+D:\ideaProject\eagle\mybookmanager\src\main\java\com\eagle\ykm\biz\LoginBiz.java
+D:\ideaProject\eagle\mybookmanager\src\main\java\com\eagle\ykm\utils\CookieUtils.java
+D:\ideaProject\eagle\mybookmanager\src\main\java\com\eagle\ykm\BookManagerApplication.java
+D:\ideaProject\eagle\mybookmanager\src\main\java\com\eagle\ykm\service\UserService.java
